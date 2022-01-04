@@ -12,7 +12,7 @@ I'm Gabriel and I work as a backend developer in Brazil.
 - 🔭 I’m currently working with retail software using Delphi
 - 🏊 I’m currently diving into Web Backend Development world (usually with TypeScript && NestJS)
 - 💬 Ask me about ... I don't care the answer is 42
-- 📫 How to reach me: [TWITTER](https://twitter.com/GabrielOBecker)
+- 📫 How to reach me: [Twitter](https://twitter.com/GabrielOBecker) [Linkedin](https://www.linkedin.com/in/gbebcker/)
 - I like to listen Hardcore Metal and Podcasts (Yeah! I'm a headbanger with a ponytail 🤘)
 - ⚡ Fun fact: The chicken don't need to cross the road!
 
