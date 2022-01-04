@@ -8,7 +8,6 @@ I'm Gabriel and I work as a backend developer in Brazil.
 
 ---
 
-<p style="text-align: center;">
 - 🏢 I'm currently working at [**Server Software para Varejo**](https://serverinfo.com.br/)
 - 🔭 I’m currently working with retail software using Delphi
 - 🏊 I’m currently diving into Web Backend Development world (usually with TypeScript && NestJS)
@@ -16,7 +15,6 @@ I'm Gabriel and I work as a backend developer in Brazil.
 - 📫 How to reach me: [TWITTER](https://twitter.com/GabrielOBecker)
 - I like to listen Hardcore Metal and Podcasts (Yeah! I'm a headbanger with a ponytail 🤘)
 - ⚡ Fun fact: The chicken don't need to cross the road!
-</p>
 
 ---
 
