@@ -2,9 +2,7 @@
 
 ---
 
-<p style="text-align: center;">
-I'm Gabriel and I work as a backend developer in Brazil. 
-</p>
+<p style="text-align: center;">I'm Gabriel and I work as a backend developer in Brazil.</p>
 
 ---
 
